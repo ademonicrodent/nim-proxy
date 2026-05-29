@@ -40,7 +40,8 @@ const MODEL_MAPPING = {
   'glm': 'z-ai/glm-5.1',
   'stepfun': 'stepfun-ai/step-3.7-flash',
   'minimax': 'minimaxai/minimax-m2.7',
-  'mistral': 'mistralai/mistral-medium-3.5-128b'
+  'mistral': 'mistralai/mistral-medium-3.5-128b',
+  'nemotron': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning'
 };
 
 // Root endpoint
